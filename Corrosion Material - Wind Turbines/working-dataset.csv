@@ -1,0 +1,8 @@
+Material,Approx. Cost per Square Meter (USD),Durability (Months),Weight (kg/mÂ²),Corrosion Resistance,Temperature Resistance (Â°C),Manufacturing Complexity,Availability
+Nickel-Based Superalloys,$750,10 years,300,Very High,1000,Medium,Very High
+Stainless Steel,$200,8 years,200,High,250,Medium,High
+Titanium Alloys,$1050,12 years,150,Very High,1100,High,Medium
+Carbon Fiber Reinforced Polymers (CFRP),$800,5 years,50,Very High,300,Medium,Medium
+Ceramic Matrix Composites (CMCs),$1350,12 years,50,Very High,1050,High,Low
+Inconel,$700,15 years,200,Very High,800,Medium,Very High
+Single Crystal Alloys,$1100,13 years,200,Very High,1100,High,Low
