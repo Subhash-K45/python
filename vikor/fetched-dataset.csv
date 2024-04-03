@@ -1,0 +1,8 @@
+Indicator,Temperature,Exposure to Moisture,Presence of Acids,Exposure to Saline Environments,Galvanic Effects,Chemical Exposure,Mechanical Stress,Microstructure,Coating Quality,Electrical Conductivity,Surface Finish,Presence of Impurities,Exposure Time,Presence of Microorganisms,UV Exposure,Cost
+Nickel-Based Superalloys,800°C,Medium,Medium,Medium,Low,Medium,500 MPa,Low,Medium,20 MS/m,Ra < 0.1 µm,< 0.1% sulfur content,1000 hours,Low,UV exposure < 1000 hours,High
+Carbon Fiber Reinforced Polymers (CFRP),100°C,Very low,Low,Low,Very low,Low,300 MPa,Low,Very high,0.01 MS/m,Ra < 0.5 µm,< 0.1% moisture content,2000 hours,High,UV exposure < 2000 hours,Medium
+Stainless Steel,600°C,Low,Low,High,Medium,High,400 MPa,Medium,High,1 MS/m,Ra < 0.2 µm,< 0.05% phosphorus content,500 hours,Medium,UV exposure < 500 hours,Medium
+Titanium Alloys,500°C,Low,Very low,Medium,Very high,Very high,600 MPa,Low,Low,0.5 MS/m,Ra < 0.05 µm,< 0.05% oxygen content,1500 hours,Very low,UV exposure < 1500 hours,High
+Inconel,800°C,Medium,Medium,Medium,Medium,Medium,550 MPa,Medium,Low,10 MS/m,Ra < 0.15 µm,< 0.08% nitrogen content,1200 hours,Medium,UV exposure < 1200 hours,Medium
+Ceramic Matrix Composites (CMCs),1000°C,High,Very low,Very low,Very high,Very low,800 MPa,Medium,Medium,0.001 MS/m,Ra < 0.01 µm,< 0.01% alkali metal content,3000 hours,Very high,UV exposure < 3000 hours,High
+Single Crystal Alloys,1200°C,Very high,Very low,Low,Low,Low,700 MPa,Very high,Very low,5 MS/m,Ra < 0.08 µm,< 0.02% carbon content,2000 hours,Low,UV exposure < 2000 hours,Very high
